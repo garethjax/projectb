@@ -1,5 +1,0 @@
-Protagonisti
-============
-
-Comparse
-========
