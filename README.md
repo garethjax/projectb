@@ -3,7 +3,7 @@
 
 **ProjectB** è il nome in codice di una ambientazione letteraria che cerca di mettere assieme diversi generi ed ispirazioni.
 
-##Premessa
+## Premessa
 
 Il fulcro dell'ambientazione è legato al pericolo di una invasione da parte di esseri malevoli provenienti da un universo parallelo.
 
