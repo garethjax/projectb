@@ -11,3 +11,9 @@ A questa invasione si oppone una organizzazione che unisce tutti i più importan
 
 Questa organizzazione è chiamata 
 "**gruppo Bilderberg**"
+
+## La vera Premessa
+
+era un esperimento di scrittura collaborativa, usando "git" come piattaforma di interscambio di informazioni in un gruppo di persone.
+
+Chiaramente non è mai partito :) 
